@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🤖+Designing+Intelligent+Data+Pipelines;🧠+LangChain+%7C+RAG+%7C+LLMOps+%7C+Fine-tuning;❄️+Snowflake+SnowPro+Core+Certified;⚡+Spark+%7C+Kafka+%7C+Databricks+%7C+Airflow;🐳+Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+MLOps" alt="Typing SVG" />
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-nejjari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/akram-nejjari](https://www.linkedin.com/in/mohammed-akram-nejjari-0a5260321/))
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkramNejj33)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramnejjari726@gmail.com)
 [![Snowflake](https://img.shields.io/badge/SnowPro%20Core%20Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com)
