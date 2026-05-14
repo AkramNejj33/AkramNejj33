@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Akram%20Nejjari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20Engineer%20%7C%20LLMOps&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🤖+Designing+Intelligent+Data+Pipelines;🧠+LangChain+%7C+RAG+%7C+LLMOps+%7C+Fine-tuning;❄️+Snowflake+SnowPro+Core+Certified;⚡+Spark+%7C+Kafka+%7C+Databricks+%7C+Airflow;🐳+Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+MLOps" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🤖+Designing+Intelligent+Data+Pipelines;🧠+LangChain+%7C+RAG+%7C+LLMOps+%7C+Fine-tuning;❄️+Snowflake+SnowPro+Core+Certified;⚡+Spark+%7C+Kafka+%7C+Databricks+%7C+Airflow;🐳+Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+MLOps" alt="Typing SVG" />
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-nejjari)
