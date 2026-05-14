@@ -1,16 +1,236 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AkramNejj33/AkramNejj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Akram%20Nejjari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20%7C%20LLMOps&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
-Here are some ideas to get you started:
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+Data+Pipelines;🧠+LangChain+%7C+RAG+%7C+LLMOps+Engineer;❄️+Snowflake+SnowPro+Core+Certified;☁️+Cloud+%7C+Spark+%7C+Kafka+%7C+Databricks;🚀+Ingénieur+Data+Science+%40+ENSA+Oujda" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-nejjari)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akramnejjari)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramnejjari726@gmail.com)
+[![Snowflake](https://img.shields.io/badge/SnowPro%20Core%20Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com)
+
+</div>
+
+---
+
+<!-- About Me -->
+## 🌌 À propos de moi
+
+```python
+class AkramNejjari:
+    def __init__(self):
+        self.name        = "Mohammed Akram Nejjari"
+        self.role        = "Data Engineer & AI Developer"
+        self.school      = "ENSA Oujda – Data Science & Cloud Computing"
+        self.next_step   = "Master 2 IDEAL – Université de Lorraine (2026)"
+        self.location    = "Maroc 🇲🇦 → France 🇫🇷"
+        self.languages   = ["Arabe 🇲🇦", "Français 🇫🇷 (C1)", "English 🇬🇧 (B2)"]
+        self.passions    = ["LLMs", "MLOps", "Data Pipelines", "Smart Cities", "RAG"]
+        self.fun_fact    = "Je transforme les données en intelligence... et le café en code ☕"
+
+    def say_hello(self):
+        return "Bienvenue sur mon profil ! Let's build something amazing 🚀"
+```
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ Stack Technologique
+
+<div align="center">
+
+### 🤖 IA Générative & LLMOps
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/GPT--2%20Fine--tuning-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
+### ❄️ Data & Cloud Platform
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+### 🧠 Machine Learning & Deep Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🗄️ Bases de données & Visualisation
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 💻 Langages & Full-Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+## 💼 Expériences Professionnelles
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 SQLI Group — Rabat
+**Data & AI Engineer – Stage PFE**
+`Mars 2026 – Août 2026`
+
+- ❄️ Deep dive **Snowflake** : Cortex AI, Cortex Search, Cortex Analyst
+- 🤖 **Cortex Agents** pour l'orchestration de workflows automatisés
+- ⚡ Pipelines **Databricks + PySpark** sur architectures Lakehouse
+- 🧠 RAG + enrichissement sémantique en production
+
+</td>
+<td width="50%">
+
+### 🏢 Harmony Technology — Rabat
+**AI & Full-Stack Developer – Stagiaire**
+`Juil. 2025 – Sept. 2025`
+
+- 🌿 Plateforme de **gestion des espaces verts urbains**
+- 🗺️ Interface cartographique **React + Leaflet + NDVI**
+- 🔧 API REST **Django** + données géospatiales & IoT
+- 🤖 Assistant conversationnel **Groq API** avec mémoire glissante
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 Majal Berkane — Berkane
+**AI & Full-Stack Developer – Stagiaire**
+`Juil. 2024 – Août 2024`
+
+- 🚗 **ChatAutoAssist** – Plateforme IA pour l'automobile
+- 🧠 Fine-tuning **GPT-2** sur corpus métier
+- ⚙️ **Function Calling** LLM → SQL dynamique
+- 🏙️ Intégration **Smart Cities** multi-sources
+
+</td>
+<td width="50%">
+
+### 🎓 Formation
+**ENSA Oujda** – Ingénieur Data Science & Cloud
+`2023 – 2026`
+
+**Université de Lorraine** – M2 IDEAL (IA & Données)
+`Admis 2026 – 2027`
+
+**Classes Préparatoires MPSI/MP**
+`Lycée Omar Ibn Abdelaziz – 2021-2023`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projets Phares
+
+<div align="center">
+
+| 🏷️ Projet | 🛠️ Stack | 📝 Description |
+|:---|:---|:---|
+| 🔍 **Chatbot RAG – Droit Routier** | LangChain, FAISS, LLM | Q&R en français sur le code des infractions marocaines |
+| 📊 **Pipeline MLOps Temps Réel** | Kafka, Spark, CI/CD | Détection de drift + réentraînement dynamique |
+| 🌍 **Robustesse Adversariale NLP** | XLM-RoBERTa, NLP | Zero-shot transfer sur encodeurs multilingues |
+| 📈 **Forecasting Ethereum** | LSTM, GRU, ARIMA | Prédiction de prix par séries temporelles |
+| ⛑️ **Helmet Detection** | MobileNetV2, Transfer Learning | Détection de casques par vision par ordinateur |
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Badge | Certification | Organisme |
+|:---:|:---|:---|
+| ❄️ | **SnowPro Core (COF-C03)** | Snowflake |
+| 🤖 | **Cortex AI Masterclass (Hands-On)** | Udemy |
+| 🔗 | **LLM Applications with LangChain** | DataCamp |
+| ⚡ | **Azure Databricks & Spark SQL** | Udemy |
+| 🐍 | **Machine Learning with Python** | IBM |
+| 📨 | **Apache Kafka – Introduction** | DataCamp |
+| 🐼 | **Data Analysis with Pandas** | Udemy |
+| 🐙 | **Git & GitHub** (3 modules) | DataCamp |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akramnejjari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akramnejjari&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramnejjari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="50%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akramnejjari/akramnejjari/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akramnejjari/akramnejjari/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/akramnejjari/akramnejjari/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Akram's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akramnejjari&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/akramnejjari)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=akramnejjari&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+*"Les données sont le pétrole du XXIe siècle — et moi, je construis les raffineries."* 🔥
+
+</div>
