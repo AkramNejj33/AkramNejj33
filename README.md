@@ -12,7 +12,7 @@
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-nejjari)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akramnejjari)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkramNejj33)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramnejjari726@gmail.com)
 [![Snowflake](https://img.shields.io/badge/SnowPro%20Core%20Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com)
 
@@ -24,7 +24,7 @@
 ## 🌌 À propos de moi
 
 ```python
-class AkramNejjari:
+class MohammedAkramNejjari:
     def __init__(self):
         self.name        = "Mohammed Akram Nejjari"
         self.role        = "Data Engineer & AI Developer"
@@ -190,10 +190,10 @@ class AkramNejjari:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akramnejjari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akramnejjari&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AkramNejj33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkramNejj33&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramnejjari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramNejj33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="50%" />
 
 </div>
 
@@ -204,9 +204,9 @@ class AkramNejjari:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akramnejjari/akramnejjari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akramnejjari/akramnejjari/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akramnejjari/akramnejjari/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkramNejj33/AkramNejj33/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkramNejj33/AkramNejj33/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AkramNejj33/AkramNejj33/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -217,7 +217,7 @@ class AkramNejjari:
 
 <div align="center">
 
-[![Akram's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akramnejjari&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/akramnejjari)
+[![Akram's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkramNejj33&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/AkramNejj33)
 
 </div>
 
@@ -226,7 +226,7 @@ class AkramNejjari:
 <div align="center">
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=akramnejjari&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AkramNejj33&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
