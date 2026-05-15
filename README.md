@@ -5,9 +5,11 @@
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🤖+Designing+Intelligent+Data+Pipelines;🧠+LangChain+%7C+RAG+%7C+LLMOps+%7C+Fine-tuning;❄️+Snowflake+SnowPro+Core+Certified;⚡+Spark+%7C+Kafka+%7C+Databricks+%7C+Airflow;🐳+Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+MLOps" alt="Typing SVG" />
+
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-akram-nejjari-0a5260321/)[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkramNejj33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-akram-nejjari-0a5260321/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkramNejj33)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akramnejjari726@gmail.com)
 [![Snowflake](https://img.shields.io/badge/SnowPro%20Core%20Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com)
 
@@ -143,7 +145,7 @@ class AkramNejjari:
 <!-- Pour ajouter ta photo :
      1. Upload ton image dans ton repo GitHub
      2. Remplace URL_DE_TA_PHOTO_SNOWFLAKE par le lien raw de l'image
-     3. Décommente les lignes ci-dessus (enlève les <!- - et - ->)
+     3. Décommente les lignes ci-dessus (enlève les /* et */)
 -->
 
 ![SnowPro Core](https://img.shields.io/badge/SnowPro%20Core-COF--C03%20%E2%9C%94-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -192,7 +194,7 @@ class AkramNejjari:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkramNejj33/AkramNejj33/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkramNejj33/AkramNejj33/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AkramNejj33/AkramNejj33/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
